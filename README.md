@@ -76,7 +76,7 @@ I will not be held accountable for any illegal activities.
 - [x] Showing jumpscare
 - [x] Hiding stealer
 - [x] Your **custom plugins**
-- [x] Fake windows cmd
+- [x] Fake windows cmd 
 - [x] Fake discord nitro generator
 - [x] Stealer **obfuscation**
 - [x] Customizable stealer icon
