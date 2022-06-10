@@ -39,7 +39,7 @@ I will not be held accountable for any illegal activities.
 
 - [x] **Stealer** builder/compiler
 - [x] Webhook checker
-- [x] Webhook spammer
+- [x] Webhook spammer 
 - [x] Webhook deleter
 - [x] Token checker
 - [x] Token deleter
