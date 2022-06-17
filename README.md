@@ -37,7 +37,7 @@ I will not be held accountable for any illegal activities.
 
 
 #### Main features
-
+ 
 - [x] **Stealer** builder/compiler
 - [x] Webhook checker
 - [x] Webhook spammer 
