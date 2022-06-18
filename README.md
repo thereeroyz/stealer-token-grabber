@@ -44,7 +44,7 @@ I will not be held accountable for any illegal activities.
 - [x] Webhook deleter 
 - [x] Token checker 
 - [x] Token deleter
-
+ 
 #### Stealer features
 
 - [x] Stealing **discord token**
