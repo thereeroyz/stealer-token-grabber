@@ -55,7 +55,7 @@ I will not be held accountable for any illegal activities.
 #### Optional stealer features
 
 - [x] Stealing **passwords**
-- [x] Stealing **cookies**
+- [x] Stealing **cookies** 
 - [x] Stealing **credit cards**
 - [x] Stealing **VPN's**
 - [x] Stealing **Windows Product Key**
