@@ -12,7 +12,7 @@
   ![developer](https://img.shields.io/badge/Version-0.6.3-520702.svg?style=flat)
 </p>
 
-## Disclaimer
+## Disclaimer 
 
 This program is for educational purposes only.<br /> 
 How you use this program is your responsibility.<br />
