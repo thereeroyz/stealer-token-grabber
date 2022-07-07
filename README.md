@@ -31,7 +31,7 @@ I will not be held accountable for any illegal activities.
 [Showcase](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#showcase)<br/>
 [Credits](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#credits)<br/>
 
-## Features of Discord AIO 
+## Features of Discord AIO  
      
 </div>
 
