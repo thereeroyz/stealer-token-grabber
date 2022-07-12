@@ -20,7 +20,7 @@ How you use this program is your responsibility.<br />
 I will not be held accountable for any illegal activities.  
    
 ## Contents Page
-    
+     
 [Main features](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#main-features)<br/>
 [Stealer features](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#stealer-features)<br/>
 [Optional features](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#optional-stealer-features)<br/>
