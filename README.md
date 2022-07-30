@@ -30,7 +30,7 @@ I will not be held accountable for any illegal activities.
 [FAQ](https://github.com/kromosohn/discord-stealer-token-grabber/blob/main/README.md#faq)<br/> 
 [Showcase](https://github.com/kromosohn/discord-stealer-token-grabber/blob/main/README.md#showcase)<br/>
 [Credits](https://github.com/kromosohn/discord-stealer-token-grabber/blob/main/README.md#credits)<br/>
-
+ 
 ## Features of Discord AIO  
       
 </div>
