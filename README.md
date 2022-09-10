@@ -224,7 +224,7 @@ Featuring [yunglean_](https://github.com/yunglean4171) and dv0l
 <br/>
 <br/>
   
-If you like this project give it a star ⭐
+If you like this project give it a star â­
 
 </div>
 
